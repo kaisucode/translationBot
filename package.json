@@ -1,0 +1,23 @@
+{
+  "name": "translation-jelly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shadowsinger/Translation-jelly.git"
+  },
+  "author": "Shadowsinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shadowsinger/Translation-jelly/issues"
+  },
+  "homepage": "https://github.com/Shadowsinger/Translation-jelly#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "google-translate-api": "^2.3.0"
+  }
+}
